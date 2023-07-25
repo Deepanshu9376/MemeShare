@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="hands_victory">Hands on Victory</string>
+    <string name="Score">Score</string>
+</resources>
